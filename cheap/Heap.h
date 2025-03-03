@@ -290,7 +290,7 @@ int Heap<T>::Search(const T& element) {
 	return -1;
 }
 
-// отсортировать массив А размера n по возрастанию
+// отсортировать массив А размера n по возрастаниюю
 template <typename T>
 void HeapSort(T* A, int n)
 {
